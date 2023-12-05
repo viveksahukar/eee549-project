@@ -11,15 +11,5 @@ from sklearn.utils import resample
 from sklearn.pipeline import Pipeline
 from sklearn.decomposition import PCA
 from sklearn.neighbors import KNeighborsClassifier
-<<<<<<< HEAD
-from sklearn.model_selection import GridSearchCV
-# from sklearn.svm import SVC
-# import cudf
-=======
-
-
-
-
->>>>>>> 78f9e170e433799565f1415f9452a1982df7f163
 # from sklearnex import patch_sklearn
 # patch_sklearn()
